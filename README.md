@@ -15,7 +15,7 @@ This Python script provides a simple tool to convert angles between radians and 
 2. Navigate to the project directory.
 3. Run the script using Python:
    
-  python radians_degrees_converter.py
+  ```python radians_degrees_converter.py```
 
 4. Follow the prompts to choose the conversion direction and input the angle value.
 5. The script will display the converted angle value based on your input.
